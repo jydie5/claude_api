@@ -1,0 +1,5 @@
+streamlit_authenticator
+#AnthropicBedrock
+anthropic
+audio_recorder_streamlit
+openai

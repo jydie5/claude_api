@@ -1,0 +1,27 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    user1:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: user1
+      password: $2b$12$KZMaw3CI5qrv9BdJKgOndutm5AhkNw.PO25VzRFmmSSulTCTuXez2
+    user2:
+      email: hoge55@yahoo.co.jp
+      failed_login_attempts: 0
+      logged_in: false
+      name: user2
+      password: $2b$12$nPcfaKwIa6C4AMLY6ZFw5./hC8vzCx1xjkoOyOOJDPM3uSJtZPraa
+    user3:
+      email: jsmith77@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: user3
+      password: $2b$12$GS9WhIOxlwsLXIKNIUI9gOTMxx2/4n0M3veb0HBVM5KNvbLx4wH72
+pre-authorized:
+  emails:
+  - milk7714@gmail.com
