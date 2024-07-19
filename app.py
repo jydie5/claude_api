@@ -193,7 +193,7 @@ def main():
 
             if api_provider == "OpenAI":
                 model_options = {
-                    "gpt-3.5-turbo (Fast responses)": "gpt-3.5-turbo",
+                    "gpt-4o-mini (Fast responses)": "gpt-4o-mini",
                     "gpt-4o (Advanced model)": "gpt-4o",
                 }
             else:  # Anthropic
