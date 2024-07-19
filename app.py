@@ -25,7 +25,7 @@ st.set_page_config(
 
 # 設定ファイルの読み込み
 def load_config():
-    with open('.config.yaml') as file:
+    with open('config.yaml') as file:
         return yaml.load(file, Loader=SafeLoader)
 
 # 認証の初期化
